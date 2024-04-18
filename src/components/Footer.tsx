@@ -49,7 +49,7 @@ const Footer = () => {
               <Link href="https://twitter.com/edubuktrust" target="_blank">
                 <Image
                   alt="icon"
-                  src="/x.svg"
+                  src="/X.svg"
                   width={31}
                   height={31}
                   className="hover:cursor-pointer"
