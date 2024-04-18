@@ -226,7 +226,7 @@ const About = () => {
           <div className="rounded-[20px] border border-solid border-[#AECFFF47] p-9 bg-[#AECFFF47] flex flex-col gap-5 items-center w-[30%] sem:w-[90%] sem:p-4 sem:m-auto">
             <Image
               alt="image"
-              src="/images/Ayushi.png"
+              src="/images/Ayushi.PNG"
               width={333.25}
               height={308}
               className="rounded-[20px] w-[359px] h-[314px] sem:w-fit"
