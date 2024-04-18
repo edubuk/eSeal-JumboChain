@@ -58,7 +58,6 @@ const Verify = () => {
       >
         Certificate Issuer Lookup
       </button>
-      <Image alt="frame" src="/images/frame3.png" width={1197} height={580} />
     </div>
   );
 };
