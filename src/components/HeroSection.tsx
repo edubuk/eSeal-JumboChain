@@ -122,7 +122,7 @@ const HeroSection = () => {
             link="https://www.linkedin.com/posts/dr-sindhu-bhaskar-55a84568_with-great-excitement-i-announce-the-coming-activity-7174682311538413569-uLA6"
           />
         </div>
-        <div className="flex gap-8 justify-center">
+        {/* <div className="flex gap-8 justify-center">
           <Link href="/eSeal">
             <button
               className={`rounded-[20px] font-normal text-base text-center text-[#ffffff] bg-gradient-to-r from-[#012376] to-[#009EFF] ${outfit.className} flex py-2 px-6`}
@@ -137,7 +137,7 @@ const HeroSection = () => {
               e-Verify Certificates
             </button>
           </Link>
-        </div>
+        </div> */}
       </div>
       <div className="flex flex-col gap-14" id="learner">
         <div className="flex flex-col gap-1 items-center">

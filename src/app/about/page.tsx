@@ -22,6 +22,7 @@ const About = () => {
           upskill, reskill and certify learners with cutting-edge knowledge
           needed to thrive in the ever-evolving career paths of the 21st century
           driven by these emerging technologies.
+          <br />
           <br /> At Edubuk, we believe in recognizing your achievements in a way
           that stands out during your employment interviews and while you work
           in MNCs professionally. We provide a reliable and secure system that

@@ -32,7 +32,7 @@ export default function Home() {
         src="bg.svg"
         width={554.88}
         height={612.48}
-        className="absolute top-[-62.93px] left-[455px] -rotate-[69.56deg] med:hidden"
+        className="absolute z-[-1] top-[-62.93px] left-[455px] -rotate-[69.56deg] med:hidden"
       />
     </>
   );

@@ -50,7 +50,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center gap-6 justify-center sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m3.jpg"
+            src="/images/m3.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -69,7 +69,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center justify-center gap-6 sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m4.jpg"
+            src="/images/m4.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -86,7 +86,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center gap-6 justify-center sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m5.jpg"
+            src="/images/m5.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -122,7 +122,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center gap-6 justify-center sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m7.jpg"
+            src="/images/m7.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -139,7 +139,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center justify-center gap-6 sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m8.jpg"
+            src="/images/m8.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -156,7 +156,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center gap-6 justify-center sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m9.jpg"
+            src="/images/m9.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -175,7 +175,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center justify-center gap-6 sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m18.png"
+            src="/images/m18.PNG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -192,7 +192,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center gap-6 justify-center sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m17.jpg"
+            src="/images/m17.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
@@ -262,7 +262,7 @@ const Media = () => {
         <div className="rounded-[20px] border border-solid border-[#AECFFF47] bg-[#AECFFF47] py-7 px-9 flex flex-col items-center justify-center gap-6 sem:p-4 med:w-fit med:self-center">
           <Image
             alt="media"
-            src="/images/m14.jpg"
+            src="/images/m14.JPG"
             width={250}
             height={400}
             // className="w-[250px] h-[120px]"
