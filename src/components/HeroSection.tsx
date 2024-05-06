@@ -111,7 +111,7 @@ const HeroSection = () => {
 						}
 					/>
 					<ClientCards
-						img={'/images/Skill-India-Logo.png'}
+						img={'/images/NSDC Logo.jpg'}
 						id={2}
 						con={
 							'Collaborated with NSDC (National Skills Development Corporation, Govt. of India) under Skill India Digital Accelerator Program along with HDFC Bank Grants Program and Facilitated by T-Hub (Largest Startup Accelerator in India).'
