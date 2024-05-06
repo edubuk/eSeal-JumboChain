@@ -111,12 +111,12 @@ const HeroSection = () => {
 						}
 					/>
 					<ClientCards
-						img={'/images/data.png'}
+						img={'/images/Skill-India-Logo.png'}
 						id={2}
 						con={
-							'Collaborated and MoU signed with DataPoint Interactive and TutorABC for e-Sealing & Verifying Certificates on the blockchain of millions of students studying in thousands of Universities across the globe.'
+							'Collaborated with NSDC (National Skills Development Corporation, Govt. of India) under Skill India Digital Accelerator Program along with HDFC Bank Grants Program and Facilitated by T-Hub (Largest Startup Accelerator in India).'
 						}
-						link='https://www.linkedin.com/pulse/education-evaluations-credentials-blockchain-verification-wu8ce/'
+						link='https://www.linkedin.com/posts/apoorva-bajaj-iit-iim-cfa-edubuk_innovationecosystem-innovatewiththub-hdfcbank-activity-7193233564765728768--d0o/' 
 					/>
 					<ClientCards
 						img={'/images/est.png'}
