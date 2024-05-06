@@ -114,7 +114,7 @@ const HeroSection = () => {
 						img={'/images/NSDC Logo.jpg'}
 						id={2}
 						con={
-							'Collaborated with NSDC (National Skills Development Corporation, Govt. of India) under Skill India Digital Accelerator Program along with HDFC Bank Grants Program and Facilitated by T-Hub (Largest Startup Accelerator in India).'
+							'Collaborated with NSDC (National Skills Development Corporation, Govt. of India) under Skill India Digital Accelerator Program along with HDFC Bank Grants Program and Facilitated by T-Hub (Largest Startup Accelerator in India). Selected as top 10 Startups across India basis our CETA Program and eSealing of Educational & Work-Experience Certificates on the Blockchain.'
 						}
 						link='https://www.linkedin.com/posts/apoorva-bajaj-iit-iim-cfa-edubuk_innovationecosystem-innovatewiththub-hdfcbank-activity-7193233564765728768--d0o/' 
 					/>
