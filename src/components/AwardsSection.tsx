@@ -131,7 +131,7 @@ const AwardsSection = () => {
             <div className="flex gap-9 sem:gap-4">
               <AwardCards img={"/images/l7.png"} />
               <AwardCards img={"/images/l8.png"} />
-              <AwardCards img={"/images/l99.png"} />
+              <AwardCards img={"/images/CCD Logo.png"} />
             </div>
           </div>
         </div>
